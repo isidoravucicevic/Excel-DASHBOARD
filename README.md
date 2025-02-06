@@ -5,13 +5,18 @@ The dashboard provides interactive features to explore trends, track genre popul
 
 Project Overview:
 The goal of this project is to provide insights into trends within the music industry from 2000 to 2020. With this dashboard, users can observe how the popularity of genres and songs changed over time, how song duration influences trends, and identify the most popular artists of the past two decades.
+
 Tools and Technologies Used:
+
 Excel: Utilized for data cleaning, manipulation, and building the dashboard.
+
 PivotTables: To summarize and aggregate data dynamically.
+
 Charts/Graphs: Used to visualize data trends and key metrics.
+
 Formulas: Various Excel formulas (e.g., IF, SUMIF, VLOOKUP, etc.) used to process and analyze the data
-Data Description
-This project uses songs_2000_2020_50k.csv to perform the analysis.
+
+Data Description: This project uses songs_2000_2020_50k.csv to perform the analysis.
 Screenshots:
 ![Screenshot (10)](https://github.com/user-attachments/assets/80b96da2-65df-463f-86c8-27b140155460)
 In the upper left, there is Timeline where you can highlight the period of time that you want to observe.
