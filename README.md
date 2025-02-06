@@ -20,7 +20,11 @@ Data Description: This project uses songs_2000_2020_50k.csv to perform the analy
 Screenshots:
 ![Screenshot (10)](https://github.com/user-attachments/assets/80b96da2-65df-463f-86c8-27b140155460)
 In the upper left, there is Timeline where you can highlight the period of time that you want to observe.
+
 Right to that is the slicer for Songs duration, if they are longer than 3 minutes or not.
+
 'Genres over Time' is the pivot chart for observation what was the most popular genre by the qty of released song, during highlighted time window.
+
 'Popularity by Genres' shows you Ascendingly the most popular genres, during highlighted time window.
+
 And the 'Top 5 Artist' show you the 5 most popular names, according to 'Popularity' column from downloaded dataset, during highlighted time window.
