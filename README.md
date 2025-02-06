@@ -2,6 +2,7 @@
 Songs '00s - '20s dashboard
 This Excel file contains an online dataset of songs from 2000. to 2020., including Artists, Titels, Duration, Genre, Popularity, etc.
 The dashboard provides interactive features to explore trends, track genre popularity over time, and analyze the most popular artists during any selected time window.
+
 Project Overview:
 The goal of this project is to provide insights into trends within the music industry from 2000 to 2020. With this dashboard, users can observe how the popularity of genres and songs changed over time, how song duration influences trends, and identify the most popular artists of the past two decades.
 Tools and Technologies Used:
